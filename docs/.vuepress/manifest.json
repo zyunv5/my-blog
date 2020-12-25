@@ -1,0 +1,7 @@
+{
+  "name": "brick_blog",
+  "short_name": "blog",
+  "version": "1.0.0",
+  "description": "板砖的博客",
+  "manifest_version": 2
+}
